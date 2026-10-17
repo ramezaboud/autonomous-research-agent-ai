@@ -1,0 +1,18 @@
+# Core LangChain / agent framework
+langchain-core
+langchain-community
+langchain-groq
+langchain-tavily
+langgraph
+
+# LLM provider and data models
+groq
+pydantic
+
+# Tools used by the notebook
+arxiv
+wikipedia
+
+# Notebook display and local execution
+ipython
+jupyter
